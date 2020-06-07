@@ -2579,7 +2579,7 @@ class Ui_MainWindow(object):
         self.lineEdit.setPlaceholderText(_translate("MainWindow", "N of process"))
         self.lineEdit_2.setPlaceholderText(_translate("MainWindow", "Round Robin"))
         self.label.setText(_translate("MainWindow", "Q"))
-        self.pushButton_5.setText(_translate("MainWindow", "Sechedular Algrothims"))
+        self.pushButton_5.setText(_translate("MainWindow", "Secheduler Algrothims"))
         self.pushButton_2.setText(_translate("MainWindow", "Average Waiting Time"))
 
     def process_time(self):
